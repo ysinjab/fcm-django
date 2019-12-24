@@ -24,7 +24,7 @@ CLASSIFIERS = [
 ]
 
 setup(
-    name="fcm-django",
+    name="mushriq-fcm-django",
     packages=[
         "fcm_django",
         "fcm_django/api",
@@ -41,8 +41,8 @@ setup(
     classifiers=CLASSIFIERS,
     description="Send push notifications to mobile devices & browsers through "
                 "FCM in Django.",
-    download_url="https://github.com/xtrinch/fcm-django/tarball/master",
+    download_url="https://github.com/ysinjab/fcm-django/tarball/master",
     long_description='',
-    url="https://github.com/xtrinch/fcm-django",
+    url="https://github.com/ysinjab/fcm-django",
     version=fcm_django.__version__,
 )
