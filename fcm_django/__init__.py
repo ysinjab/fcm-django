@@ -1,4 +1,4 @@
-__author__ = "xTrinch"
+__author__ = "ysinjab"
 __email__ = "ysinjab@gmail.com"
 __version__ = "0.3.4"
 
